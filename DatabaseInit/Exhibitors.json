@@ -1,0 +1,56 @@
+[
+    {
+        "category":"2,3",
+        "exhibitorName":"Cork Institute of Technology",
+        "exhibitorSrc":"cit_main.jpg",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,3",
+        "exhibitorName":"Cambridge University Press",
+        "exhibitorSrc":"Cambridge%20University%20Press.jpg",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit.&nbsp;Peiores principem Constantium cautela sed cetera et nimia graves cetera modi"
+    },
+    {
+        "category":"2,3",
+        "exhibitorName":"Association of Taipei Publishers",
+        "exhibitorSrc":"atp-59903.png",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"3",
+        "exhibitorName":"Association for Computing Machinery",
+        "exhibitorSrc":"ACM%20logo.png",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,2",
+        "exhibitorName":"Argentina Consulate General",
+        "exhibitorSrc":"acg.png",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,3",
+        "exhibitorName":"Hong Kong University Press",
+        "exhibitorSrc":"HKUPRESS.jpg",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,2",
+        "exhibitorName":"IEEE",
+        "exhibitorSrc":"ieee.jpg",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,3",
+        "exhibitorName":"No Starch Press",
+        "exhibitorSrc":"Nostarch.png",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    {
+        "category":"1,3",
+        "exhibitorName":"Packt",
+        "exhibitorSrc":"packt.png",
+        "exhibitorDescription":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+    }
+]

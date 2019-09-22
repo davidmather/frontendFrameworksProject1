@@ -1,15 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scstyle-12 sc-overflow">
   <head>
     <meta charset="utf-8" />
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/Favicons/book-16-179933.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/Favicons/book-32-179933.png">
+    <link rel="icon" type="image/png" sizes="152x152" href="assets/img/Favicons/book-152-179933.png">
+    <link rel="icon" type="image/png" sizes="152x152" href="assets/img/Favicons/book-152-179933.png">
+    <link rel="icon" type="image/png" sizes="152x152" href="assets/img/Favicons/book-152-179933.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="theme-color" content="#000000" />
     <meta
-      name="description"
-      content="Web site created using create-react-app"
+            name="description"
+            content="Web site created using create-react-app"
     />
-    <link rel="apple-touch-icon" href="logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -26,7 +30,7 @@
     -->
     <title>React App</title>
   </head>
-  <body>
+  <body class="bg-light">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
@@ -39,5 +43,11 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+        emailjs.init("user_iDtcbHZgUYztZoK4wDi9y");
+      })();
+    </script>
   </body>
 </html>

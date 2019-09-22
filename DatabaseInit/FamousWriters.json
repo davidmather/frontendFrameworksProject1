@@ -1,0 +1,18 @@
+[
+  {
+    "src":"1.jpg",
+    "writerName":"Ben Johnson",
+    "writerDescription":"Author of Bleh and Bleh 2",
+    "moreWriterInfo":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+  }, {
+    "src":"2.jpg",
+    "writerName":"Sandra Thompson",
+    "writerDescription":"Author of Bleh and Bleh 2",
+    "moreWriterInfo":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+  }, {
+    "src":"3.jpg",
+    "writerName":"John Deer",
+    "writerDescription":"Author of Bleh and Bleh 2",
+    "moreWriterInfo":"Nullam id dolor id nibh ultricies vehicula ut id elit."
+  }
+]

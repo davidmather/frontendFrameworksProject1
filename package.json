@@ -3,15 +3,37 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-brands-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "aos": "^2.3.4",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "firebase": "^5.8.4",
+    "firestore": "^1.1.6",
+    "jquery": "^3.4.1",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-datepicker": "^2.9.6",
     "react-dom": "^16.9.0",
+    "react-firestore": "^1.0.1",
+    "react-image-lightbox": "^5.1.0",
+    "react-notifications": "^1.4.3",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-responsive-modal": "^4.0.1",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1"
   },
+  "homepage": "http://davidmather.github.io/frontendFrameworksProject1",
   "scripts": {
     "start": "react-scripts start",
+    "run": "react-scripts build && gh-pages -d build && serve -s build ",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }

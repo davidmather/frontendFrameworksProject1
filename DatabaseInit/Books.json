@@ -1,0 +1,32 @@
+[
+    {
+        "bookTitle":"Essential Essay Writing Techniques",
+        "frontCover":"Essential%20Essay%20Writing%20Techniques.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    },
+    {
+        "bookTitle":"Sirens of Style",
+        "frontCover":"Sirens%20of%20Style.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    },
+    {
+        "bookTitle":"Walking around in your employees shoes",
+        "frontCover":"Walking%20around%20in%20your%20employees%20shoes.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    },
+    {
+        "bookTitle":"The watcher in the woods",
+        "frontCover":"The%20watcher%20in%20the%20woods.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    },
+    {
+        "bookTitle":"Travel with annie",
+        "frontCover":"Travel%20with%20annie.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    },
+    {
+        "bookTitle":"Blueprints of buildings",
+        "frontCover":"Blueprints%20of%20buildings.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt earum doloremque aliquam culpa dolor nostrum consequatur quas dicta? Molestias repellendus minima pariatur libero vel, reiciendis optio magnam rerum, labore corporis"
+    }
+]
