@@ -28,10 +28,11 @@
   "homepage": "http://davidmather.github.io/frontendFrameworksProject1",
   "scripts": {
     "start": "react-scripts start",
-    "run": "react-scripts build && gh-pages -d build && serve -s build ",
+    "run": "react-scripts build && serve -s build ",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "publish": "react-scripts build && gh-pages -d build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

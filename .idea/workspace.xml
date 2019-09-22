@@ -2,157 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e22bb7b-97bd-4050-839e-6d8968234481" name="Default" comment="Project upload">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/Books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/Exhibitors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/FamousWriters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/Featured.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/Tickets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseInit/gallery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sass/styles.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/-Filterable-Cards-.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Card-Carousel-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Card-Carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Filterable-Gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Lightbox-Gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Navbar-vmnt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Navigation-Clean.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/News-Cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/Team-Clean.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/book.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/components/untitled.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/googlefonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Blueprints of buildings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Essential Essay Writing Techniques.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/ACM logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/Cambridge University Press.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/HKUPRESS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/Nostarch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/acg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/atp-59903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/cit_main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/ieee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Exhibitors/packt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Favicons/book-152-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Favicons/book-16-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Favicons/book-32-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Featured/Placeholders/astronaut.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Featured/Placeholders/chocolate-cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Featured/Placeholders/portrait-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Logos/HigherEducationAuthority.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Logos/enterpriseIreland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Logos/europeaninvestment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Nostarch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Sirens of Style.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/The watcher in the woods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Travel with annie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Walking around in your employees shoes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/acg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/atp-59903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/bg-masthead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/building.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/cit_main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/deer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/ieee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/lava.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/loft.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/packt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/-Filterable-Cards-.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Card-Carousel-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Card-Carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Filterable-Gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Lightbox-Gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Navbar-vmnt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Navigation-Clean.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/News-Cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/Team-Clean.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/book.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/components/untitled.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/googlefonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Blueprints of buildings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Essential Essay Writing Techniques.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/ACM logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/Cambridge University Press.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/HKUPRESS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/Nostarch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/acg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/atp-59903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/cit_main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/ieee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Exhibitors/packt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Favicons/book-152-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Favicons/book-16-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Favicons/book-32-179933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Featured/Placeholders/astronaut.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Featured/Placeholders/chocolate-cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Featured/Placeholders/portrait-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Logos/HigherEducationAuthority.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Logos/enterpriseIreland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Logos/europeaninvestment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Sirens of Style.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/The watcher in the woods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Travel with annie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Walking around in your employees shoes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bg-masthead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/building.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/deer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/lava.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/loft.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sprites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ArtGallery/ArtGallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ArtGallery/GalleryImage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Books/Book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Books/BookRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Books/Books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Constants/Constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Constants/Firebase/Firestore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exhibitors/Exhibitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Exhibitors/Exhibitors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FamousWriters/FamousWriters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FamousWriters/Writer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Featured/Featured.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Featured/FeaturedCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logging.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RegistrationForms/ExhibitorRegistrationForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RegistrationForms/TermsAndConditions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RegistrationForms/TicketRegistrationForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SectionDivider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,6 +86,13 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="publish" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="publish" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -255,6 +114,7 @@
       <item itemvalue="npm.build" />
       <item itemvalue="npm.start" />
       <item itemvalue="npm.run" />
+      <item itemvalue="npm.publish" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -274,8 +134,16 @@
       <workItem from="1568885375899" duration="13068000" />
       <workItem from="1568913713743" duration="12199000" />
       <workItem from="1568982034876" duration="24066000" />
-      <workItem from="1569072404316" duration="35301000" />
+      <workItem from="1569072404316" duration="36665000" />
     </task>
+    <task id="LOCAL-00001" summary="Project upload">
+      <created>1569120100706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569120100706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
