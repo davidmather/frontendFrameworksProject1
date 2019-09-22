@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontendFrameworksProject1/static/css/main.e10f050f.chunk.css",
+    "main.css": "/frontendFrameworksProject1/static/css/main.a200e101.chunk.css",
     "main.js": "/frontendFrameworksProject1/static/js/main.6a7e6cb6.chunk.js",
     "main.js.map": "/frontendFrameworksProject1/static/js/main.6a7e6cb6.chunk.js.map",
     "runtime~main.js": "/frontendFrameworksProject1/static/js/runtime~main.41e047b9.js",
@@ -9,10 +9,10 @@
     "static/js/2.7c8a49c8.chunk.js": "/frontendFrameworksProject1/static/js/2.7c8a49c8.chunk.js",
     "static/js/2.7c8a49c8.chunk.js.map": "/frontendFrameworksProject1/static/js/2.7c8a49c8.chunk.js.map",
     "index.html": "/frontendFrameworksProject1/index.html",
-    "precache-manifest.687e34c73cd0b5d14769016e2aa177e5.js": "/frontendFrameworksProject1/precache-manifest.687e34c73cd0b5d14769016e2aa177e5.js",
+    "precache-manifest.cf0d549b2f796021f0fdd8058060114d.js": "/frontendFrameworksProject1/precache-manifest.cf0d549b2f796021f0fdd8058060114d.js",
     "service-worker.js": "/frontendFrameworksProject1/service-worker.js",
     "static/css/2.8e17aeb2.chunk.css.map": "/frontendFrameworksProject1/static/css/2.8e17aeb2.chunk.css.map",
-    "static/css/main.e10f050f.chunk.css.map": "/frontendFrameworksProject1/static/css/main.e10f050f.chunk.css.map",
+    "static/css/main.a200e101.chunk.css.map": "/frontendFrameworksProject1/static/css/main.a200e101.chunk.css.map",
     "static/media/styles.min.css": "/frontendFrameworksProject1/static/media/sprites.8e3e274e.png"
   }
 }
